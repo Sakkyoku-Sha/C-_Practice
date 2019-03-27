@@ -1,2 +1,2 @@
-# C-_Practice
+# C++ Practice
 Reviewing Classic Programming Problems in C++ 
