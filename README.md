@@ -1,5 +1,5 @@
 # C++ Practice
-Reviewing Classic Programming Problems in C++ 
+Reviewing Classic Programming Problems in C++ without BOOST
 
 Have any advice to give? I'd love to hear it. 
 
