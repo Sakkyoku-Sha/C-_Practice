@@ -5,4 +5,6 @@ Have any advice to give? I'd love to hear it.
 
 Current Problems that have an implementation here: 
 
-<li>Binary Search</li>
+<ul>
+  <li>Binary Search</li>
+</ul>
