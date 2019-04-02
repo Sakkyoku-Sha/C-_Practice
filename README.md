@@ -11,4 +11,5 @@ Current Problems that have an implementation here:
   <li>Binary Search </li>
   <li>Breadth first print on a Binary Tree (sorting and array using a Binary Tree) </li>
   <li>Templated Linked List (including reversing the list and a merge sort implementation)</li>
+  <li>Quick Sort </li>
 </ul>
