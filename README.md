@@ -1,7 +1,7 @@
 # C++ Practice
 Reviewing Classic Programming Problems in C++ without BOOST
 
-Have any advice to give? I'd love to hear it. 
+Have any advice to give? I'd love to hear it. Fastest Responses at RyanAnderson0147(At)gmail.com
 
 HackerRank Account Link: https://www.hackerrank.com/RyanAnderson0147
 
