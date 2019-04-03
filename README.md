@@ -15,5 +15,5 @@ Current Problems that have an implementation here:
   <li>Dykstras Shortest Path Aglorithm with Data Structures</li> 
 </ul>
 
-And a bunch of other problems are solved on my Hacker Rank account here: 
+And a bunch of other problems are solved on my Hacker Rank account here: <br>
 https://www.hackerrank.com/RyanAnderson0147
