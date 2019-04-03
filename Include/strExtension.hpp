@@ -1,5 +1,5 @@
-#ifndef STREXTENSION_H
-#define STREXTENSION_H
+#ifndef STREXTENSION_HPP
+#define STREXTENSION_HPP
 
 #include<vector>
 #include<iostream> 

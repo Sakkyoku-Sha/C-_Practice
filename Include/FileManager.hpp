@@ -1,5 +1,5 @@
-#ifndef FILEMANAGER_H //Header guards 
-#define FILEMANAGER_H
+#ifndef FILEMANAGER_HPP //Header guards 
+#define FILEMANAGER_HPP
 
 #include<fstream> 
 #include<sstream>
