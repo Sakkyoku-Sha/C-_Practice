@@ -15,7 +15,7 @@ SPath:
 	g++ $(Include) -g ./Graphs/ShortestPath.cpp $(IncludeFiles) -o SPath.exe
 	
 QSort: 
-	g++ -g ./QuickSort/QuickSort.cpp -o Qsort.exe
+	g++ -g ./Sorts/QuickSort.cpp -o Qsort.exe
 	
 clean:
 	rm *.exe
